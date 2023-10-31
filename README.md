@@ -208,3 +208,17 @@ PEP 20 -- The Zen of Python:
 ```python
 import this
 ```
+## LEARNING OBJECTIVES AND CONVENTIONS IN PEP8
+- For indentation, you must use 4 spaces per indentation level
+- Spaces are the preferred indentation method
+Naming Conventions PEP8
+- b (single lowercase letter)
+- B (single uppercase letter)
+- lowercase
+- lower_case_with_underscores
+- UPPERCASE
+- UPPER_CASE_WITH_UNDERSCORES
+- CapitalizedWords (or CapWords, or CamelCase – so named because of the bumpy look of its letters [4]). This is also sometimes known as StudlyCaps.
+- mixedCase (differs from CapitalizedWords by initial lowercase character!)
+- Capitalized_Words_With_Underscores
+- Avoid using characters like 'l', 'O', or 'I' as single char variable names"
